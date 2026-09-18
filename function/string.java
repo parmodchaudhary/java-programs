@@ -1,0 +1,6 @@
+/**
+ * string
+ */
+public enum string {
+
+}
