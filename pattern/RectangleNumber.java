@@ -10,7 +10,7 @@ public class RectangleNumber {
 System.out.print(j +" ");
 
             }
-            System.out.println("");
+            System.out.println( "");
             
             
         }
