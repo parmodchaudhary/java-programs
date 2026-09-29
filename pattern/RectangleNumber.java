@@ -5,8 +5,8 @@ public class RectangleNumber {
                    Scanner sc = new Scanner(System.in);
                    System.out.println("Enter the number of rpws and column");
                    int n = sc.nextInt();
-             for(int i=0;i<=n;i++){
-            for(int j=0; j<=n;j++){
+             for(int i=1;i<=n;i++){
+            for(int j=1; j<=n;j++){
 System.out.print(j +" ");
 
             }
