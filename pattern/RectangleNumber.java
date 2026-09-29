@@ -6,7 +6,7 @@ public class RectangleNumber {
                    System.out.println("Enter the number of rpws and column");
                    int n = sc.nextInt();
              for(int i=1;i<=n;i++){
-            for(int j=1; j<=n;j++){
+            for(int j=1;  j<=n;j++){
 System.out.print(j +"  ");
 
             }
